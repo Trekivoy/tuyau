@@ -1,0 +1,4 @@
+*.class # je l'enleve parce qu'on ne le met pas dans les classes
+
+bin/*
+!bin/documentation.txt
